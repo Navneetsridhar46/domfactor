@@ -1,0 +1,32 @@
+DOM ( document object model)
+
+should give script tag only after body tag
+
+it is an object 
+so should give document as name first/call
+
+html pages creates a dom structure everytime
+
+it is seen like a tree structure
+
+---------------------------
+
+how to make it dynamic - dom methods
+
+
+- document.getElementsByTagName('tagName)
+- document.getElementsByClassName('className)
+- document.getElementById('id')
+
+this tag name can be used in all METHODS
+- document.querySelector('tagName/.className/#id')
+- document.querySelectorAll('tagName,.className/#id')
+
+
+             EVENT 
+button onclick  
+button onhover 
+button keyup 
+button keyin 
+
+alert - is used to create a box 
